@@ -1,0 +1,2 @@
+# serverselect
+EQEmu Server Select
